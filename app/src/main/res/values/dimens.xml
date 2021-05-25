@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_gap">8dp</dimen>
+    <dimen name="margin_gap">25dp</dimen>
+    <dimen name="margin_layout_gap">15dp</dimen>
+</resources>

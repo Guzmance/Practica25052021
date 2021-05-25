@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVMExample</string>
+    <string name="nombre">Nombre:</string>
+    <string name="year_text">ej. 1892</string>
+    <string name="isbn_text">ej. 9789996152016</string>
+    <string name="name_book">ej. Sherlock Holmes</string>
+    <string name="autor_text">ej. Arthur Conan Doyle</string>
+    <string name="editorial">ej. George Newnes</string>
+
+</resources>
